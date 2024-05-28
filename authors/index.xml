@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Authors - 作者 - 程序猿</title>
+        <link>https://softwareCxw.github.io/authors/</link>
+        <description>Authors - 作者 - 程序猿</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 28 May 2024 13:17:00 &#43;0800</lastBuildDate><atom:link href="https://softwareCxw.github.io/authors/" rel="self" type="application/rss+xml" /><item>
+    <title>Cxw</title>
+    <link>https://softwareCxw.github.io/authors/cxw/</link>
+    <pubDate>Tue, 28 May 2024 13:17:00 &#43;0800</pubDate><author>
+        <name>cxw</name>
+    </author><guid>https://softwareCxw.github.io/authors/cxw/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

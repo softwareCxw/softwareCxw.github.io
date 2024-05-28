@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Configuration - 标签 - 程序猿</title>
+        <link>https://softwareCxw.github.io/tags/configuration/</link>
+        <description>Configuration - 标签 - 程序猿</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 03 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://softwareCxw.github.io/tags/configuration/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - 基本概念</title>
+    <link>https://softwareCxw.github.io/theme-documentation-basics/</link>
+    <pubDate>Tue, 03 Mar 2020 21:40:32 &#43;0800</pubDate><author>
+                        <name>cxw</name><uri>https://softwareCxw.github.io/authors/cxw</uri></author><guid>https://softwareCxw.github.io/theme-documentation-basics/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/theme-documentation-basics/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>探索 Hugo - <strong>DoIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+</item></channel>
+</rss>

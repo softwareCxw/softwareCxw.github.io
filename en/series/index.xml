@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - Series - Program ape</title>
+        <link>https://softwareCxw.github.io/en/series/</link>
+        <description>Series - Series - Program ape</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="https://softwareCxw.github.io/en/series/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting-Start</title>
+    <link>https://softwareCxw.github.io/en/series/getting-start/</link>
+    <pubDate>Fri, 06 Mar 2020 16:29:41 &#43;0800</pubDate><author>
+        <name>cxw</name>
+    </author><guid>https://softwareCxw.github.io/en/series/getting-start/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

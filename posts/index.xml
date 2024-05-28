@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 程序猿</title>
+        <link>https://softwareCxw.github.io/posts/</link>
+        <description>所有文章 | 程序猿</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 28 May 2024 13:17:00 &#43;0800</lastBuildDate><atom:link href="https://softwareCxw.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - 基本概念</title>
+    <link>https://softwareCxw.github.io/theme-documentation-basics/</link>
+    <pubDate>Tue, 03 Mar 2020 21:40:32 &#43;0800</pubDate><author>
+                        <name>cxw</name><uri>https://softwareCxw.github.io/authors/cxw</uri></author><guid>https://softwareCxw.github.io/theme-documentation-basics/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/theme-documentation-basics/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>探索 Hugo - <strong>DoIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+</item><item>
+    <title>主题文档 - 内容</title>
+    <link>https://softwareCxw.github.io/theme-documentation-content/</link>
+    <pubDate>Wed, 04 Mar 2020 16:30:05 &#43;0800</pubDate><author>
+                        <name>cxw</name><uri>https://softwareCxw.github.io/authors/cxw</uri></author><guid>https://softwareCxw.github.io/theme-documentation-content/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/theme-documentation-content/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>了解如何在 <strong>DoIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
+</item><item>
+    <title>主题文档 - 扩展 Shortcodes</title>
+    <link>https://softwareCxw.github.io/theme-documentation-extended-shortcodes/</link>
+    <pubDate>Fri, 06 Mar 2020 16:29:59 &#43;0800</pubDate><author>
+                        <name>cxw</name><uri>https://softwareCxw.github.io/authors/cxw</uri></author><guid>https://softwareCxw.github.io/theme-documentation-extended-shortcodes/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/theme-documentation-extended-shortcodes/featured-image-preview.webp" referrerpolicy="no-referrer">
+            </div><p><strong>DoIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>]]></description>
+</item><item>
+    <title>留言板</title>
+    <link>https://softwareCxw.github.io/message-board/</link>
+    <pubDate>Tue, 28 May 2024 13:17:00 &#43;0800</pubDate><author>
+                        <name>cxw</name><uri>https://softwareCxw.github.io/authors/cxw</uri></author><guid>https://softwareCxw.github.io/message-board/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/message-board/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p><strong>留言板</strong></p>]]></description>
+</item></channel>
+</rss>

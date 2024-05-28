@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - 程序猿</title>
+        <link>https://softwareCxw.github.io/categories/</link>
+        <description>Categories - 分类 - 程序猿</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 06 Mar 2020 16:29:59 &#43;0800</lastBuildDate><atom:link href="https://softwareCxw.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>DoIt</title>
+    <link>https://softwareCxw.github.io/categories/doit/</link>
+    <pubDate>Fri, 06 Mar 2020 16:29:59 &#43;0800</pubDate><author>
+        <name>cxw</name>
+    </author><guid>https://softwareCxw.github.io/categories/doit/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
